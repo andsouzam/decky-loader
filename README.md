@@ -112,4 +112,4 @@ Source control and deploying plugins are left to each respective contributor for
 
 ## 📜 Credits
 
-The original idea for the plugin loader concept is based on the work of [marios8543's Steam Deck UI Inject project](https://github.com/marios8543/steamdeck-ui-inject).
+//The original idea for the plugin loader concept is based on the work of [marios8543's Steam Deck UI Inject project](https://github.com/marios8543/steamdeck-ui-inject).
